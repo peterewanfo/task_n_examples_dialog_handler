@@ -188,11 +188,10 @@ packages:
   dialog_handler:
     dependency: "direct main"
     description:
-      path: "."
-      ref: dev
-      resolved-ref: "3ad05df7549b52d4f3e241dbbeb7b4c045d3e192"
-      url: "https://github.com/peterewanfo/dialog_handler.git"
-    source: git
+      name: dialog_handler
+      sha256: c8690dc56ec52dd47bba3b870003e758a09f79a184a232d50c23b40be8d54723
+      url: "https://pub.dev"
+    source: hosted
     version: "1.0.0"
   fake_async:
     dependency: transitive

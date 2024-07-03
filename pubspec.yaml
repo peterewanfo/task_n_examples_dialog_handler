@@ -10,12 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  dialog_handler:
-    git:
-      url: https://github.com/peterewanfo/dialog_handler.git
-      ref: dev
+  dialog_handler: ^1.0.0
 
-  # dialog_handler: ^1.0.0
   get_it: ^7.7.0
   auto_route: ^8.2.0
   glass_kit: ^4.0.1
